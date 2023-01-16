@@ -11,13 +11,7 @@ Our driver profile is a person who is between the ages of 25 and 30 years old. T
 
 In total our driver profile represent only 1.57 % of total drivers who accepted the bar coupon and 4.55 % of total drivers who accepted the Coffee House coupon.
 
-#### In additional exploration I asked
-
-* Is it likely that they go to more upscale restaurant, like 20-50?
-- Does the income change the profile?
-+ Does gender have an impact if we ignore the income?
-
-#### The most segnificant findings here are that if we drop the income qulifications, then the number of coupon accepted by a diver increases segnificantly.
+The acceptance of the Bar coupon is less then half of the Coffee House coupon.
 
 In both cases more female have rejected the coupons then man.
 
@@ -26,6 +20,15 @@ Most of those who accepted a coupon where either Single or Married.
 Students and Unemployed people are the largest groups that accepted the coupon.
 
 From those who accepted the 'Bar' coupon, the group with 'Some Highschool Education' dominated.
+
+#### In additional exploration on the Bar coupon I asked
+
+* Is it likely that they go to more upscale restaurant, like 20-50?
+- Does the income change the profile?
++ Does gender have an impact if we ignore the income?
+
+#### The most segnificant findings here are that if we drop the income qulifications, then the number of coupon accepted by a diver increases segnificantly.
+
 
 ## Links
 The link to the jupyter notebook used, supporting these findings can be found [here](https://github.com/hagayzamir/BH-PCMLAI-Module_5/blob/main/assignment_5_1_starter/prompt.ipynb)
