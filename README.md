@@ -31,7 +31,7 @@ If we drop the income qulifications, then the number of coupon accepted by a div
 
 ## Reccomendations
 Given the finding and additional observations my recomendations are to combine coupons, for example if the Coffee House, Restaurant (<20) 
-and Carry Out & Take away coupons were combined they represent 79.4% of all coupons.
+and Carry Out & Take away coupons were combined they represent 79.4% of all coupons. 55.42% of these have been visited these type of businesses at least once a month.
 
 ## Links
 The link to the jupyter notebook used, supporting these findings can be found [here](https://github.com/hagayzamir/BH-PCMLAI-Module_5/blob/main/assignment_5_1_starter/prompt.ipynb)
