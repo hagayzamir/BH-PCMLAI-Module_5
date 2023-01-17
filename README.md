@@ -27,8 +27,11 @@ From those who accepted the 'Bar' coupon, the group with 'Some Highschool Educat
 - Does the income change the profile?
 + Does gender have an impact if we ignore the income?
 
-#### The most segnificant findings here are that if we drop the income qulifications, then the number of coupon accepted by a diver increases segnificantly.
+If we drop the income qulifications, then the number of coupon accepted by a diver increases segnificantly.
 
+## Reccomendations
+Given the finding and additional observations my recomendations are to combine coupons, for example if the Coffee House, Restaurant (<20) 
+and Carry Out & Take away coupons were combined they represent 79.4% of all coupons.
 
 ## Links
 The link to the jupyter notebook used, supporting these findings can be found [here](https://github.com/hagayzamir/BH-PCMLAI-Module_5/blob/main/assignment_5_1_starter/prompt.ipynb)
